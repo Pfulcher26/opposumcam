@@ -1,0 +1,16 @@
+h1 {
+  font-family: 'Lobster', cursive;
+}
+
+h3 {
+  font-family: 'Lobster', cursive;
+}
+
+body {
+  text-align: center;
+  text-decoration-color: white;
+  font-kerning: inherit;
+  font-family: 'Karla', sans-serif;
+  color: rgb(70, 65, 65);
+}
+
